@@ -118,4 +118,4 @@ end
 end
 end 
 TicTacToe.new
-
+TicTacToe.play
